@@ -5887,3 +5887,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [12Mar2025 23:30:27.848] [Netty Epoll Server IO #6/DEBUG] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: resolves to entity Skeleton['Skeleton'/1339, l='ServerLevel[world]', x=-189.50, y=-28.00, z=145.50] modifiers null
 [12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: diego8182 lost connection: Disconnected
 [12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 left the game
+[12Mar2025 23:31:43.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 23:31:43.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Mar2025 23:31:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Mar2025 23:31:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Mar2025 23:31:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Mar2025 23:31:58.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 23:31:58.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 23:31:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Mar2025 23:31:58.184] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[12Mar2025 23:31:58.184] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

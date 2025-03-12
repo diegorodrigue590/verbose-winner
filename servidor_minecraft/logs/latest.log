@@ -387,3 +387,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [12Mar2025 23:28:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 has made the advancement [Berrily Alive]
 [12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: diego8182 lost connection: Disconnected
 [12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 left the game
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Mar2025 23:31:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Mar2025 23:31:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Mar2025 23:31:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Mar2025 23:31:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
