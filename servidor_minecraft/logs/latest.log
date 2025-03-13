@@ -430,3 +430,88 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [13Mar2025 21:10:53.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=258}
 [13Mar2025 21:10:53.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=259}
 [13Mar2025 21:10:53.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=260}
+[13Mar2025 21:11:57.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
+[13Mar2025 21:11:57.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
+[13Mar2025 21:12:03.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
+[13Mar2025 21:12:26.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
+[13Mar2025 21:12:26.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
+[13Mar2025 21:12:27.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=262}
+[13Mar2025 21:12:27.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
+[13Mar2025 21:12:27.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
+[13Mar2025 21:12:27.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
+[13Mar2025 21:12:27.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
+[13Mar2025 21:12:27.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
+[13Mar2025 21:12:27.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=63, z=262}
+[13Mar2025 21:12:30.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=64, z=263}
+[13Mar2025 21:12:43.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
+[13Mar2025 21:12:44.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
+[13Mar2025 21:12:46.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=64, z=263}
+[13Mar2025 21:12:51.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
+[13Mar2025 21:12:53.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
+[13Mar2025 21:12:53.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
+[13Mar2025 21:12:53.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
+[13Mar2025 21:12:54.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
+[13Mar2025 21:12:54.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=64, z=264}
+[13Mar2025 21:13:25.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=329, y=63, z=257}
+[13Mar2025 21:13:25.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=330, y=63, z=257}
+[13Mar2025 21:13:25.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=330, y=63, z=258}
+[13Mar2025 21:13:26.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=334, y=63, z=258}
+[13Mar2025 21:13:26.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=334, y=63, z=258}
+[13Mar2025 21:13:33.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Mar2025 21:15:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Crops of the Wild]
+[13Mar2025 21:15:25.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Mine? Mine? Mine?]
+[13Mar2025 21:15:58.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: diego8182[/127.39.46.86:40727] logged in with entity id 2391 at (675.8306182474674, 92.0, 99.79296981858468)
+[13Mar2025 21:15:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 joined the game
+[13Mar2025 21:15:59.040] [Server thread/INFO] [Jade/]: Syncing config to diego8182 (7a1dce81-18c6-3b06-8f36-eba002835f88)
+[13Mar2025 21:16:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> putita
+[13Mar2025 21:16:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
+[13Mar2025 21:16:24.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> onde ta
+[13Mar2025 21:16:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> MAMUT DE MIERDAAA
+[13Mar2025 21:16:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
+[13Mar2025 21:16:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> QUE PINGO ME MATAS PUTITA
+[13Mar2025 21:16:45.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> dodne estaaaaaaaaa
+[13Mar2025 21:16:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 was doomed to fall by Tusklin
+[13Mar2025 21:16:55.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:55.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:55.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:55.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:56.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:56.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:56.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:56.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
+[13Mar2025 21:16:58.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=336, y=63, z=259}
+[13Mar2025 21:17:02.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> me mato un mamut tipo dinosaurio
+[13Mar2025 21:17:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xdddddddddddddddddd
+[13Mar2025 21:17:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ontas
+[13Mar2025 21:17:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
+[13Mar2025 21:17:21.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 was killed
+[13Mar2025 21:17:21.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Killed diego8182]
+[13Mar2025 21:17:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> llegue ala aldea
+[13Mar2025 21:18:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> pica
+[13Mar2025 21:18:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe
+[13Mar2025 21:18:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Creative Mode]
+[13Mar2025 21:18:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a chanbear
+[13Mar2025 21:18:38.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> tol
+[13Mar2025 21:18:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> toma
+[13Mar2025 21:18:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd bada ilegal
+[13Mar2025 21:19:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> esque no hay mucha comida aca
+[13Mar2025 21:19:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Survival Mode]
+[13Mar2025 21:19:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a chanbear
+[13Mar2025 21:19:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> vamo a dormir
+[13Mar2025 21:19:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Sweet Dreams]
+[13Mar2025 21:19:27.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xddddddddd
+[13Mar2025 21:19:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 has made the advancement [Sweet Dreams]
+[13Mar2025 21:19:43.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> dormi
+[13Mar2025 21:19:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> mounstros cerca
+[13Mar2025 21:19:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> anda a otro
+[13Mar2025 21:20:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ayudaaaaaaa
+[13Mar2025 21:20:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> alalalalala
+[13Mar2025 21:20:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> corrw
+[13Mar2025 21:21:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Acquire Hardware]
+[13Mar2025 21:21:14.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ese zolbi tiene poderes
+[13Mar2025 21:21:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> los que tienen su nombre en una barra tienen poderes
+[13Mar2025 21:21:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a kien chucha pone un zonbi com ams de 20 corazonez
+[13Mar2025 21:21:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> yo
+[13Mar2025 21:21:48.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/102, l='ServerLevel[world]', x=401.49, y=128.00, z=460.49] died, message: 'Weaponsmith was slain by Zombie'
+[13Mar2025 21:21:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
+[13Mar2025 21:21:52.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> dame pan
