@@ -1,28 +1,28 @@
-[12Mar2025 23:21:14.401] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Mar2025 23:21:14.405] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[12Mar2025 23:21:15.875] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Mar2025 23:21:15.968] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/verbose-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Mar2025 23:21:16.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/verbose-winner/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[12Mar2025 23:21:16.457] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[12Mar2025 23:21:16.459] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Mar2025 23:21:16.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Mar2025 23:21:16.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Mar2025 23:21:16.725] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[12Mar2025 23:21:16.726] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[12Mar2025 23:21:19.303] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Mar2025 23:21:19.568] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[12Mar2025 23:21:19.569] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[12Mar2025 23:21:19.572] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Mar2025 23:21:19.591] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 23:21:19.711] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[12Mar2025 23:21:19.712] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[12Mar2025 23:21:19.728] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[12Mar2025 23:21:19.839] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 23:21:19.882] [main/WARN] [mixin/]: Reference map 'ambientadditions.refmap.json' for ambientadditions.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 23:21:19.889] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 23:21:19.897] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Mar2025 23:21:19.936] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[12Mar2025 23:21:20.005] [main/INFO] [Puzzles Lib/]: Loading 78 mods:
+[13Mar2025 00:15:44.472] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Mar2025 00:15:44.478] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[13Mar2025 00:15:46.039] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Mar2025 00:15:46.099] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/verbose-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Mar2025 00:15:46.490] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/verbose-winner/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[13Mar2025 00:15:46.583] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 00:15:46.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 00:15:46.586] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 00:15:46.587] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 00:15:46.876] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Mar2025 00:15:46.877] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[13Mar2025 00:15:49.308] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Mar2025 00:15:49.535] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[13Mar2025 00:15:49.537] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[13Mar2025 00:15:49.539] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Mar2025 00:15:49.555] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 00:15:49.664] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[13Mar2025 00:15:49.664] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[13Mar2025 00:15:49.683] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[13Mar2025 00:15:49.783] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 00:15:49.820] [main/WARN] [mixin/]: Reference map 'ambientadditions.refmap.json' for ambientadditions.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 00:15:49.826] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 00:15:49.833] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 00:15:49.871] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[13Mar2025 00:15:49.924] [main/INFO] [Puzzles Lib/]: Loading 79 mods:
 	- alexsmobs 1.22.9
 	- ambientadditions 1.20.1-1.1.0
 	- another_furniture 1.20.1-3.0.2
@@ -69,6 +69,7 @@
 	- infernalmobs 1.20.1.6
 	- jade 11.13.1+forge
 	- jei 15.20.0.106
+	- matmos 6.6
 	- mavapi 1.1.4
 	- mavm 1.2.6
 	- mcwwindows 2.3.0
@@ -101,112 +102,292 @@
 	- wardrobe 1.0.3.1
 	- xaerominimap 25.1.0
 	- xaeroworldmap 1.39.4
-[12Mar2025 23:21:21.953] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[12Mar2025 23:21:22.516] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.53 s after launch)
-[12Mar2025 23:21:22.647] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[12Mar2025 23:21:22.648] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[12Mar2025 23:21:22.807] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[12Mar2025 23:21:22.807] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[12Mar2025 23:21:22.807] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[12Mar2025 23:21:22.807] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[12Mar2025 23:21:24.498] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1977 milliseconds
-[12Mar2025 23:21:26.584] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[12Mar2025 23:21:26.584] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[12Mar2025 23:21:27.547] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[12Mar2025 23:21:28.021] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[12Mar2025 23:21:28.051] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[12Mar2025 23:21:28.080] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[12Mar2025 23:21:28.524] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[12Mar2025 23:21:28.525] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[12Mar2025 23:21:29.053] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[12Mar2025 23:21:29.190] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[12Mar2025 23:21:29.267] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[12Mar2025 23:21:29.270] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[12Mar2025 23:21:29.270] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[12Mar2025 23:21:29.272] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[12Mar2025 23:21:29.274] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[12Mar2025 23:21:29.275] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[12Mar2025 23:21:29.278] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[12Mar2025 23:21:29.284] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[12Mar2025 23:21:29.302] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[12Mar2025 23:21:29.307] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[12Mar2025 23:21:29.308] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[12Mar2025 23:21:29.318] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[12Mar2025 23:21:29.348] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[12Mar2025 23:21:29.470] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[12Mar2025 23:21:29.481] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[12Mar2025 23:21:29.485] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[12Mar2025 23:21:29.493] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[12Mar2025 23:21:29.498] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[12Mar2025 23:21:29.501] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[12Mar2025 23:21:29.514] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[12Mar2025 23:21:29.531] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[12Mar2025 23:21:29.536] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[12Mar2025 23:21:29.537] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[12Mar2025 23:21:29.556] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[12Mar2025 23:21:29.581] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[12Mar2025 23:21:29.582] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[12Mar2025 23:21:29.585] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[12Mar2025 23:21:29.586] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[12Mar2025 23:21:29.660] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[12Mar2025 23:21:29.662] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[12Mar2025 23:21:31.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@570cf9d5 has been registered twice for the same name treechop:chop_wood.
-[12Mar2025 23:21:32.156] [main/INFO] [Moonlight/]: Initialized block sets in 17ms
-[12Mar2025 23:21:33.403] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[12Mar2025 23:21:33.413] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[12Mar2025 23:21:33.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[12Mar2025 23:21:33.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[12Mar2025 23:21:33.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[12Mar2025 23:21:33.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[12Mar2025 23:21:33.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[12Mar2025 23:21:33.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[12Mar2025 23:21:33.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[12Mar2025 23:21:33.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[12Mar2025 23:21:33.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[12Mar2025 23:21:33.957] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[12Mar2025 23:21:34.172] [main/INFO] [Moonlight/]: Initialized color sets in 37ms
-[12Mar2025 23:21:34.228] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[12Mar2025 23:21:34.228] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[12Mar2025 23:21:34.228] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[12Mar2025 23:21:34.228] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[12Mar2025 23:21:34.229] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[12Mar2025 23:21:34.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[12Mar2025 23:21:34.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[12Mar2025 23:21:34.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[12Mar2025 23:21:34.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[12Mar2025 23:21:34.326] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[12Mar2025 23:21:34.327] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[12Mar2025 23:21:34.351] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[12Mar2025 23:21:34.351] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[12Mar2025 23:21:34.668] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[12Mar2025 23:21:34.675] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[12Mar2025 23:21:34.676] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[12Mar2025 23:21:34.677] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[12Mar2025 23:21:34.687] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[12Mar2025 23:21:34.690] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[12Mar2025 23:21:34.691] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[12Mar2025 23:21:34.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[12Mar2025 23:21:34.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Mar2025 23:21:35.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[12Mar2025 23:21:35.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[12Mar2025 23:21:35.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[12Mar2025 23:21:35.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[12Mar2025 23:21:35.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.71 Target: null
-[12Mar2025 23:21:35.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[12Mar2025 23:21:35.339] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Mar2025 23:21:35.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[12Mar2025 23:21:35.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[12Mar2025 23:21:35.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[12Mar2025 23:21:35.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[12Mar2025 23:21:35.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.28 Target: 8.1.29
-[12Mar2025 23:21:35.779] [main/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[12Mar2025 23:21:35.799] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
-[12Mar2025 23:21:35.799] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
-[12Mar2025 23:21:35.997] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 65 ms
-[12Mar2025 23:21:37.485] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[12Mar2025 23:21:38.414] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:farmersrespite:blocks/kettle
+[13Mar2025 00:15:51.931] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13Mar2025 00:15:52.490] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.51 s after launch)
+[13Mar2025 00:15:52.638] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[13Mar2025 00:15:52.638] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[13Mar2025 00:15:52.798] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[13Mar2025 00:15:52.798] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[13Mar2025 00:15:52.798] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[13Mar2025 00:15:52.798] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[13Mar2025 00:15:54.622] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2128 milliseconds
+[13Mar2025 00:15:56.260] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Mar2025 00:15:56.260] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Mar2025 00:15:57.139] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[13Mar2025 00:15:57.610] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[13Mar2025 00:15:57.637] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[13Mar2025 00:15:57.666] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[13Mar2025 00:15:58.022] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[13Mar2025 00:15:58.023] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[13Mar2025 00:15:58.514] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[13Mar2025 00:15:58.597] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[13Mar2025 00:15:58.665] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[13Mar2025 00:15:58.666] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[13Mar2025 00:15:58.667] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[13Mar2025 00:15:58.668] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[13Mar2025 00:15:58.668] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[13Mar2025 00:15:58.669] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[13Mar2025 00:15:58.672] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[13Mar2025 00:15:58.674] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[13Mar2025 00:15:58.684] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[13Mar2025 00:15:58.692] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[13Mar2025 00:15:58.693] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[13Mar2025 00:15:58.699] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[13Mar2025 00:15:58.717] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[13Mar2025 00:15:58.778] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Mar2025 00:15:58.805] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[13Mar2025 00:15:58.808] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[13Mar2025 00:15:58.812] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[13Mar2025 00:15:58.816] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[13Mar2025 00:15:58.817] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[13Mar2025 00:15:58.830] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[13Mar2025 00:15:58.851] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[13Mar2025 00:15:58.852] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[13Mar2025 00:15:58.853] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[13Mar2025 00:15:58.861] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[13Mar2025 00:15:58.881] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[13Mar2025 00:15:58.882] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[13Mar2025 00:15:58.883] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[13Mar2025 00:15:58.885] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[13Mar2025 00:15:58.958] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[13Mar2025 00:15:58.958] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[13Mar2025 00:16:00.574] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@49e09b23 has been registered twice for the same name treechop:chop_wood.
+[13Mar2025 00:16:01.392] [main/INFO] [Moonlight/]: Initialized block sets in 22ms
+[13Mar2025 00:16:02.722] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[13Mar2025 00:16:02.725] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[13Mar2025 00:16:02.937] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[13Mar2025 00:16:02.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[13Mar2025 00:16:03.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[13Mar2025 00:16:03.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[13Mar2025 00:16:03.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Mar2025 00:16:03.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[13Mar2025 00:16:03.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[13Mar2025 00:16:03.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[13Mar2025 00:16:03.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[13Mar2025 00:16:03.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[13Mar2025 00:16:03.628] [main/INFO] [Moonlight/]: Initialized color sets in 63ms
+[13Mar2025 00:16:03.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[13Mar2025 00:16:03.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[13Mar2025 00:16:03.720] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Mar2025 00:16:03.721] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Mar2025 00:16:03.721] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[13Mar2025 00:16:03.721] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[13Mar2025 00:16:03.721] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[13Mar2025 00:16:03.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[13Mar2025 00:16:03.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[13Mar2025 00:16:03.823] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Mar2025 00:16:03.824] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Mar2025 00:16:03.849] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Mar2025 00:16:03.849] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Mar2025 00:16:04.165] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[13Mar2025 00:16:04.175] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[13Mar2025 00:16:04.176] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[13Mar2025 00:16:04.178] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Mar2025 00:16:04.190] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Mar2025 00:16:04.194] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Mar2025 00:16:04.196] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[13Mar2025 00:16:04.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[13Mar2025 00:16:04.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Mar2025 00:16:04.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[13Mar2025 00:16:04.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[13Mar2025 00:16:04.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[13Mar2025 00:16:04.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[13Mar2025 00:16:04.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.71 Target: null
+[13Mar2025 00:16:04.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[13Mar2025 00:16:04.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[13Mar2025 00:16:04.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[13Mar2025 00:16:04.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[13Mar2025 00:16:04.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[13Mar2025 00:16:04.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.28 Target: 8.1.29
+[13Mar2025 00:16:04.901] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Mar2025 00:16:05.254] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:siflet1 Expected: 1721 Got: 1475
+[13Mar2025 00:16:05.254] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foret1 Expected: 1722 Got: 1827
+[13Mar2025 00:16:05.255] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foret2 Expected: 1723 Got: 1828
+[13Mar2025 00:16:05.255] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foret3 Expected: 1724 Got: 1829
+[13Mar2025 00:16:05.255] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventplaine1 Expected: 1725 Got: 1830
+[13Mar2025 00:16:05.255] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventplaine2 Expected: 1726 Got: 1831
+[13Mar2025 00:16:05.256] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventplaine3 Expected: 1727 Got: 1832
+[13Mar2025 00:16:05.256] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave1 Expected: 1728 Got: 1833
+[13Mar2025 00:16:05.256] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave2 Expected: 1729 Got: 1834
+[13Mar2025 00:16:05.256] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave3 Expected: 1730 Got: 1835
+[13Mar2025 00:16:05.257] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave Expected: 1731 Got: 1836
+[13Mar2025 00:16:05.257] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave6 Expected: 1732 Got: 1837
+[13Mar2025 00:16:05.257] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cave7 Expected: 1733 Got: 1838
+[13Mar2025 00:16:05.258] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave1 Expected: 1734 Got: 1839
+[13Mar2025 00:16:05.258] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave2 Expected: 1735 Got: 1840
+[13Mar2025 00:16:05.258] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave3 Expected: 1736 Got: 1841
+[13Mar2025 00:16:05.258] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave4 Expected: 1737 Got: 1842
+[13Mar2025 00:16:05.258] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave5 Expected: 1738 Got: 1843
+[13Mar2025 00:16:05.259] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave6 Expected: 1739 Got: 1844
+[13Mar2025 00:16:05.259] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave7 Expected: 1740 Got: 1845
+[13Mar2025 00:16:05.259] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave8 Expected: 1741 Got: 1846
+[13Mar2025 00:16:05.260] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ambientcave9 Expected: 1742 Got: 1847
+[13Mar2025 00:16:05.260] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventfort1 Expected: 1743 Got: 1848
+[13Mar2025 00:16:05.260] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventfort2 Expected: 1744 Got: 1849
+[13Mar2025 00:16:05.260] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventfort3 Expected: 1745 Got: 1850
+[13Mar2025 00:16:05.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:eau Expected: 1746 Got: 1851
+[13Mar2025 00:16:05.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluie1 Expected: 1747 Got: 1852
+[13Mar2025 00:16:05.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluie2 Expected: 1748 Got: 1853
+[13Mar2025 00:16:05.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluie3 Expected: 1749 Got: 1854
+[13Mar2025 00:16:05.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluie4 Expected: 1750 Got: 1855
+[13Mar2025 00:16:05.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluie5 Expected: 1751 Got: 1856
+[13Mar2025 00:16:05.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur1 Expected: 1752 Got: 1857
+[13Mar2025 00:16:05.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur2 Expected: 1753 Got: 1858
+[13Mar2025 00:16:05.263] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur3 Expected: 1754 Got: 1859
+[13Mar2025 00:16:05.263] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur4 Expected: 1755 Got: 1860
+[13Mar2025 00:16:05.263] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur5 Expected: 1756 Got: 1861
+[13Mar2025 00:16:05.263] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:pluieinterieur6 Expected: 1757 Got: 1862
+[13Mar2025 00:16:05.263] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ventpluit1 Expected: 1758 Got: 1863
+[13Mar2025 00:16:05.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:moine Expected: 1759 Got: 1864
+[13Mar2025 00:16:05.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:changement1 Expected: 1760 Got: 1865
+[13Mar2025 00:16:05.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:changement2 Expected: 1761 Got: 1866
+[13Mar2025 00:16:05.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka1 Expected: 1762 Got: 1867
+[13Mar2025 00:16:05.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka2 Expected: 1763 Got: 1868
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka3 Expected: 1764 Got: 1869
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka4 Expected: 1765 Got: 1870
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka5 Expected: 1766 Got: 1871
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chicka6 Expected: 1767 Got: 1872
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter1 Expected: 1768 Got: 1873
+[13Mar2025 00:16:05.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter2 Expected: 1769 Got: 1874
+[13Mar2025 00:16:05.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter3 Expected: 1770 Got: 1875
+[13Mar2025 00:16:05.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter4 Expected: 1771 Got: 1876
+[13Mar2025 00:16:05.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter5 Expected: 1772 Got: 1877
+[13Mar2025 00:16:05.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:critter6 Expected: 1773 Got: 1878
+[13Mar2025 00:16:05.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:plage1 Expected: 1774 Got: 1879
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:plage2 Expected: 1775 Got: 1880
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:plage3 Expected: 1776 Got: 1881
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:plage4 Expected: 1777 Got: 1882
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:plage5 Expected: 1778 Got: 1883
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chant3 Expected: 1779 Got: 1884
+[13Mar2025 00:16:05.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:lake1 Expected: 1780 Got: 1885
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:lake Expected: 1781 Got: 1886
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:lake2 Expected: 1782 Got: 1887
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:lake3 Expected: 1783 Got: 1888
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:ouiseau6 Expected: 1784 Got: 1889
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chant2 Expected: 1785 Got: 1890
+[13Mar2025 00:16:05.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:chant1 Expected: 1786 Got: 1891
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour1 Expected: 1787 Got: 1892
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour2 Expected: 1788 Got: 1893
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour3 Expected: 1789 Got: 1894
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour4 Expected: 1790 Got: 1895
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour5 Expected: 1791 Got: 1896
+[13Mar2025 00:16:05.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour6 Expected: 1792 Got: 1897
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour7 Expected: 1793 Got: 1898
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour8 Expected: 1794 Got: 1899
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:jour9 Expected: 1795 Got: 1900
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit1 Expected: 1796 Got: 1901
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit2 Expected: 1797 Got: 1902
+[13Mar2025 00:16:05.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit3 Expected: 1798 Got: 1903
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit4 Expected: 1799 Got: 1904
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit5 Expected: 1800 Got: 1905
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit6 Expected: 1801 Got: 1906
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit7 Expected: 1802 Got: 1907
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nuit8 Expected: 1803 Got: 1908
+[13Mar2025 00:16:05.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2foret1 Expected: 1804 Got: 1909
+[13Mar2025 00:16:05.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2foret2 Expected: 1805 Got: 1910
+[13Mar2025 00:16:05.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2foret3 Expected: 1806 Got: 1911
+[13Mar2025 00:16:05.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2foret4 Expected: 1807 Got: 1912
+[13Mar2025 00:16:05.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour1 Expected: 1808 Got: 1913
+[13Mar2025 00:16:05.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour2 Expected: 1809 Got: 1914
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour3 Expected: 1810 Got: 1915
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour4 Expected: 1811 Got: 1916
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour5 Expected: 1812 Got: 1917
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour6 Expected: 1813 Got: 1918
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour7 Expected: 1814 Got: 1919
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour8 Expected: 1815 Got: 1920
+[13Mar2025 00:16:05.273] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2jour9 Expected: 1816 Got: 1921
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2nuit1 Expected: 1817 Got: 1922
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2nuit2 Expected: 1818 Got: 1923
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2nuit3 Expected: 1819 Got: 1924
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2waterincave Expected: 1820 Got: 1925
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2cave Expected: 1821 Got: 1926
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:v2cave2 Expected: 1822 Got: 1927
+[13Mar2025 00:16:05.274] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takeutility Expected: 1823 Got: 1928
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takearme Expected: 1824 Got: 1929
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takegenerique Expected: 1825 Got: 1930
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takesword Expected: 1826 Got: 1931
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takefood Expected: 1827 Got: 1932
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:takebow Expected: 1828 Got: 1933
+[13Mar2025 00:16:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows1 Expected: 1829 Got: 1934
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows2 Expected: 1830 Got: 1935
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows3 Expected: 1831 Got: 1936
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows4 Expected: 1832 Got: 1937
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows5 Expected: 1833 Got: 1938
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:rainwindows6 Expected: 1834 Got: 1939
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foudre1 Expected: 1835 Got: 1940
+[13Mar2025 00:16:05.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foudre2 Expected: 1836 Got: 1941
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foudre3 Expected: 1837 Got: 1942
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:foudre4 Expected: 1838 Got: 1943
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:water_falling Expected: 1839 Got: 1944
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:neige1 Expected: 1840 Got: 1945
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:neige2 Expected: 1841 Got: 1946
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:sword1 Expected: 1842 Got: 1947
+[13Mar2025 00:16:05.277] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:crow1 Expected: 1843 Got: 1948
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:crow2 Expected: 1844 Got: 1949
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nightforest1 Expected: 1845 Got: 1950
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nightforest2 Expected: 1846 Got: 1951
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:nightforest3 Expected: 1847 Got: 1952
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:snake Expected: 1848 Got: 1953
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desertnight Expected: 1849 Got: 1954
+[13Mar2025 00:16:05.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desertnight2 Expected: 1850 Got: 1955
+[13Mar2025 00:16:05.279] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desertnight3 Expected: 1851 Got: 1956
+[13Mar2025 00:16:05.279] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cricket2 Expected: 1852 Got: 1957
+[13Mar2025 00:16:05.279] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cricket3 Expected: 1853 Got: 1958
+[13Mar2025 00:16:05.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cricket4 Expected: 1854 Got: 1959
+[13Mar2025 00:16:05.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cricket1 Expected: 1855 Got: 1960
+[13Mar2025 00:16:05.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert1 Expected: 1856 Got: 1961
+[13Mar2025 00:16:05.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert2 Expected: 1857 Got: 1962
+[13Mar2025 00:16:05.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert3 Expected: 1858 Got: 1963
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert4 Expected: 1859 Got: 1964
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert5 Expected: 1860 Got: 1965
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert6 Expected: 1861 Got: 1966
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert7 Expected: 1862 Got: 1967
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert8 Expected: 1863 Got: 1968
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert9 Expected: 1864 Got: 1969
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desert10 Expected: 1865 Got: 1970
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:speedwind Expected: 1866 Got: 1971
+[13Mar2025 00:16:05.282] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:water_jumpin Expected: 1867 Got: 1972
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:netherloop Expected: 1868 Got: 1973
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:wind_moan1 Expected: 1869 Got: 1974
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:wind_moan2 Expected: 1870 Got: 1975
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:wind_moan3 Expected: 1871 Got: 1976
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:birdsong1 Expected: 1872 Got: 1977
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:birdsong2 Expected: 1873 Got: 1978
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:birdsong3 Expected: 1874 Got: 1979
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:birdsong4 Expected: 1875 Got: 1980
+[13Mar2025 00:16:05.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:inthedessert Expected: 1876 Got: 1981
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:desertvillage Expected: 1877 Got: 1982
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:cavedesert Expected: 1878 Got: 1983
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:tnthejungle Expected: 1879 Got: 1984
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds1 Expected: 1880 Got: 1985
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds2 Expected: 1881 Got: 1986
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds3 Expected: 1882 Got: 1987
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds4 Expected: 1883 Got: 1988
+[13Mar2025 00:16:05.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds5 Expected: 1884 Got: 1989
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds6 Expected: 1885 Got: 1990
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds7 Expected: 1886 Got: 1991
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds8 Expected: 1887 Got: 1992
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:junglebirds9 Expected: 1888 Got: 1993
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave1 Expected: 1889 Got: 1994
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave2 Expected: 1890 Got: 1995
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave3 Expected: 1891 Got: 1996
+[13Mar2025 00:16:05.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave4 Expected: 1892 Got: 1997
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave5 Expected: 1893 Got: 1998
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:darkcave6 Expected: 1894 Got: 1999
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:impact1 Expected: 1895 Got: 2000
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:impact2 Expected: 1896 Got: 2001
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:impact3 Expected: 1897 Got: 2002
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:impact4 Expected: 1898 Got: 2003
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:the_end Expected: 1899 Got: 2004
+[13Mar2025 00:16:05.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: matmos:the_nether Expected: 1900 Got: 2005
+[13Mar2025 00:16:05.511] [main/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[13Mar2025 00:16:05.531] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
+[13Mar2025 00:16:05.531] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
+[13Mar2025 00:16:05.666] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 40 ms
+[13Mar2025 00:16:07.373] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Mar2025 00:16:08.417] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:farmersrespite:blocks/kettle
 com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -214,13 +395,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -228,10 +409,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -239,20 +420,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23252!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23252!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23254!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23254!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -260,140 +441,132 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[12Mar2025 23:21:38.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.657] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.659] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.659] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.666] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.669] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.672] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.673] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.679] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.691] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.696] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.696] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.702] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.706] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.707] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:pouring/water_cup: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:copper_cup'
-[12Mar2025 23:21:38.710] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.723] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.727] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.732] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.739] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.740] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.764] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.769] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.769] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.770] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.772] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.772] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.774] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.774] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.789] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.791] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.791] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.792] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.792] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.793] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.801] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.804] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.804] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.811] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.818] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.819] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[12Mar2025 23:21:38.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.832] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.837] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[12Mar2025 23:21:38.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[12Mar2025 23:21:38.893] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement farmersrespite:main/stunt_tea_bush: Invalid criterion trigger: farmersrespite:stunt_tea_bush
-[12Mar2025 23:21:38.951] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3318 advancements
-[12Mar2025 23:21:38.954] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[12Mar2025 23:21:38.977] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[12Mar2025 23:21:38.982] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 2 curio entities
-[12Mar2025 23:21:39.078] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
-[12Mar2025 23:21:39.084] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
-[12Mar2025 23:21:39.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Mar2025 23:21:39.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Mar2025 23:21:39.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Mar2025 23:21:39.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Mar2025 23:21:39.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Mar2025 23:21:39.452] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Mar2025 23:21:39.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Mar2025 23:21:39.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Mar2025 23:21:39.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Mar2025 23:21:39.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Mar2025 23:21:39.554] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[12Mar2025 23:21:39.556] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[12Mar2025 23:21:39.715] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.715] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[12Mar2025 23:21:39.716] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[12Mar2025 23:21:39.716] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.716] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[12Mar2025 23:21:39.717] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.717] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[12Mar2025 23:21:39.718] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[12Mar2025 23:21:39.718] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.718] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[12Mar2025 23:21:39.733] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.734] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
-[12Mar2025 23:21:39.734] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
-[12Mar2025 23:21:39.734] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[12Mar2025 23:21:39.734] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
-[12Mar2025 23:21:39.743] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[12Mar2025 23:21:40.039] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[12Mar2025 23:21:40.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Mar2025 23:21:40.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Mar2025 23:21:40.464] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
-[12Mar2025 23:21:42.328] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 23:21:42.329] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 23:21:42.329] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 23:21:42.330] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 23:21:42.462] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Mar2025 23:21:42.962] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[12Mar2025 23:21:43.462] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[12Mar2025 23:21:43.677] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3215 ms
-[12Mar2025 23:21:43.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.127s)! For help, type "help"
-[12Mar2025 23:21:43.722] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Mar2025 23:21:43.739] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[12Mar2025 23:21:43.739] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[12Mar2025 23:21:43.740] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[12Mar2025 23:21:43.740] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[12Mar2025 23:21:43.741] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/verbose-winner/servidor_minecraft/./config/infernalmobs.cfg
-[12Mar2025 23:21:43.742] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.759 seconds to load
-[12Mar2025 23:23:31.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a6afe6b[id=<null>,name=diego8182,properties={},legacy=false] (/127.216.93.209:59303) lost connection: Disconnected
-[12Mar2025 23:26:07.504] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[12Mar2025 23:26:07.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: diego8182[/127.216.93.209:49335] logged in with entity id 102 at (-83.5, 63.0, 104.5)
-[12Mar2025 23:26:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 joined the game
-[12Mar2025 23:26:07.871] [Server thread/INFO] [Jade/]: Syncing config to diego8182 (7a1dce81-18c6-3b06-8f36-eba002835f88)
-[12Mar2025 23:28:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 has made the advancement [Berrily Alive]
-[12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: diego8182 lost connection: Disconnected
-[12Mar2025 23:30:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 left the game
-[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Mar2025 23:31:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Mar2025 23:31:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Mar2025 23:31:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Mar2025 23:31:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Mar2025 23:31:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Mar2025 23:31:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Mar2025 00:16:08.711] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.717] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.718] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.720] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.721] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.727] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.729] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.732] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.736] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.739] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.745] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.761] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.765] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.765] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.770] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.771] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:pouring/water_cup: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:copper_cup'
+[13Mar2025 00:16:08.775] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.785] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.789] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.793] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.796] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.818] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.863] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.870] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.873] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.873] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.885] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.889] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.890] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.895] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[13Mar2025 00:16:08.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.904] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[13Mar2025 00:16:08.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[13Mar2025 00:16:08.962] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement farmersrespite:main/stunt_tea_bush: Invalid criterion trigger: farmersrespite:stunt_tea_bush
+[13Mar2025 00:16:09.023] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3318 advancements
+[13Mar2025 00:16:09.026] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[13Mar2025 00:16:09.048] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[13Mar2025 00:16:09.056] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 2 curio entities
+[13Mar2025 00:16:09.165] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[13Mar2025 00:16:09.173] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[13Mar2025 00:16:09.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Mar2025 00:16:09.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Mar2025 00:16:09.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Mar2025 00:16:09.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Mar2025 00:16:09.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Mar2025 00:16:09.437] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Mar2025 00:16:09.531] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Mar2025 00:16:09.531] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Mar2025 00:16:09.532] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Mar2025 00:16:09.532] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Mar2025 00:16:09.547] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[13Mar2025 00:16:09.549] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[13Mar2025 00:16:09.665] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.666] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[13Mar2025 00:16:09.666] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[13Mar2025 00:16:09.666] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.666] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[13Mar2025 00:16:09.668] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.668] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[13Mar2025 00:16:09.668] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[13Mar2025 00:16:09.668] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.669] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[13Mar2025 00:16:09.686] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.686] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
+[13Mar2025 00:16:09.686] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
+[13Mar2025 00:16:09.687] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[13Mar2025 00:16:09.687] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
+[13Mar2025 00:16:09.697] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13Mar2025 00:16:10.042] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13Mar2025 00:16:10.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Mar2025 00:16:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Mar2025 00:16:10.533] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[13Mar2025 00:16:12.681] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Mar2025 00:16:12.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Mar2025 00:16:12.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Mar2025 00:16:12.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Mar2025 00:16:12.683] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Mar2025 00:16:13.032] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[13Mar2025 00:16:13.532] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[13Mar2025 00:16:13.955] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3424 ms
+[13Mar2025 00:16:13.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.413s)! For help, type "help"
+[13Mar2025 00:16:14.000] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Mar2025 00:16:14.016] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[13Mar2025 00:16:14.017] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[13Mar2025 00:16:14.017] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[13Mar2025 00:16:14.018] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[13Mar2025 00:16:14.018] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/verbose-winner/servidor_minecraft/./config/infernalmobs.cfg
+[13Mar2025 00:16:14.019] [Server thread/WARN] [ModernFix/]: Dedicated server took 32.037 seconds to load
+[13Mar2025 00:16:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Mar2025 00:16:51.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Mar2025 00:16:51.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Mar2025 00:16:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Mar2025 00:16:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Mar2025 00:16:52.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Mar2025 00:16:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Mar2025 00:16:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Mar2025 00:16:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Mar2025 00:16:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
