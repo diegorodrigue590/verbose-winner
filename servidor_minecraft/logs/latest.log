@@ -604,3 +604,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [13Mar2025 21:40:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> perq voy a ver como revivir
 [13Mar2025 21:40:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ya
 [13Mar2025 21:42:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe
+[13Mar2025 21:42:04.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
+[13Mar2025 21:42:05.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182
+[13Mar2025 21:42:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> puta
+[13Mar2025 21:42:16.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> te queria revivir
+[13Mar2025 21:42:28.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> pa la mina}
+[13Mar2025 21:42:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
+[13Mar2025 21:42:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> que hace
+[13Mar2025 21:42:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> quedate quieto
+[13Mar2025 21:43:05.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ya
+[13Mar2025 21:43:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> jajjas
+[13Mar2025 21:43:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ta madre no encuentro la tecla
+[13Mar2025 21:43:52.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: diego8182 lost connection: Disconnected
+[13Mar2025 21:43:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 left the game
+[13Mar2025 21:44:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182 and bled out
+[13Mar2025 21:47:22.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: autohealer_pvp lost connection: Disconnected
+[13Mar2025 21:47:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp left the game
