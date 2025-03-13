@@ -320,9 +320,12 @@
       "minecraft:taiga": "2025-03-13 19:31:59 +0000",
       "minecraft:stony_shore": "2025-03-13 01:02:44 +0000",
       "minecraft:snowy_plains": "2025-03-13 19:51:59 +0000",
+      "minecraft:snowy_taiga": "2025-03-13 21:23:07 +0000",
+      "minecraft:grove": "2025-03-13 21:18:00 +0000",
       "minecraft:jagged_peaks": "2025-03-13 19:42:19 +0000",
       "minecraft:cold_ocean": "2025-03-13 19:20:32 +0000",
-      "minecraft:forest": "2025-03-13 19:45:30 +0000"
+      "minecraft:forest": "2025-03-13 19:45:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-13 21:20:36 +0000"
     },
     "done": false
   },
@@ -335,6 +338,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:black_forest": "2025-03-13 01:05:41 +0000",
+      "biomeswevegone:frosted_taiga": "2025-03-13 21:23:05 +0000",
       "biomeswevegone:dacite_ridges": "2025-03-13 01:04:38 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2025-03-13 19:56:50 +0000",
       "biomeswevegone:crimson_tundra": "2025-03-13 19:53:59 +0000"
@@ -1179,6 +1183,126 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-13 19:57:02 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-03-13 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-13 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-03-13 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-13 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2025-03-13 21:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2025-03-13 21:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-13 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-13 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-03-13 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-03-13 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-03-13 21:22:25 +0000"
     },
     "done": true
   },
