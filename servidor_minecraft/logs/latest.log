@@ -1,28 +1,28 @@
-[13Mar2025 21:01:53.489] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Mar2025 21:01:53.493] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[13Mar2025 21:01:55.578] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Mar2025 21:01:55.652] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/verbose-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Mar2025 21:01:56.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/verbose-winner/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[13Mar2025 21:01:56.267] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[13Mar2025 21:01:56.269] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[13Mar2025 21:01:56.270] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[13Mar2025 21:01:56.271] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[13Mar2025 21:01:56.622] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[13Mar2025 21:01:56.623] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[13Mar2025 21:01:59.732] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Mar2025 21:02:00.010] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[13Mar2025 21:02:00.013] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[13Mar2025 21:02:00.017] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Mar2025 21:02:00.039] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Mar2025 21:02:00.165] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[13Mar2025 21:02:00.166] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[13Mar2025 21:02:00.207] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[13Mar2025 21:02:00.303] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Mar2025 21:02:00.330] [main/WARN] [mixin/]: Reference map 'ambientadditions.refmap.json' for ambientadditions.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Mar2025 21:02:00.337] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Mar2025 21:02:00.343] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Mar2025 21:02:00.382] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[13Mar2025 21:02:00.489] [main/INFO] [Puzzles Lib/]: Loading 79 mods:
+[13Mar2025 21:55:32.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Mar2025 21:55:32.567] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[13Mar2025 21:55:33.225] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Mar2025 21:55:33.270] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/verbose-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Mar2025 21:55:33.612] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/verbose-winner/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[13Mar2025 21:55:33.697] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 21:55:33.699] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 21:55:33.700] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 21:55:33.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[13Mar2025 21:55:33.919] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Mar2025 21:55:33.920] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[13Mar2025 21:55:36.570] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Mar2025 21:55:36.841] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[13Mar2025 21:55:36.842] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[13Mar2025 21:55:36.844] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Mar2025 21:55:36.862] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 21:55:36.969] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[13Mar2025 21:55:36.971] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[13Mar2025 21:55:36.986] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[13Mar2025 21:55:37.085] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 21:55:37.120] [main/WARN] [mixin/]: Reference map 'ambientadditions.refmap.json' for ambientadditions.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 21:55:37.127] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 21:55:37.134] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Mar2025 21:55:37.162] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[13Mar2025 21:55:37.236] [main/INFO] [Puzzles Lib/]: Loading 79 mods:
 	- alexsmobs 1.22.9
 	- ambientadditions 1.20.1-1.1.0
 	- another_furniture 1.20.1-3.0.2
@@ -102,521 +102,123 @@
 	- wardrobe 1.0.3.1
 	- xaerominimap 25.1.0
 	- xaeroworldmap 1.39.4
-[13Mar2025 21:02:03.342] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Mar2025 21:02:04.101] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (15.66 s after launch)
-[13Mar2025 21:02:04.269] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[13Mar2025 21:02:04.269] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[13Mar2025 21:02:04.456] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[13Mar2025 21:02:04.457] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[13Mar2025 21:02:04.457] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[13Mar2025 21:02:04.457] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[13Mar2025 21:02:06.728] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2623 milliseconds
-[13Mar2025 21:02:08.885] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[13Mar2025 21:02:08.886] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[13Mar2025 21:02:09.798] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[13Mar2025 21:02:10.219] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[13Mar2025 21:02:10.255] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[13Mar2025 21:02:10.276] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[13Mar2025 21:02:10.614] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[13Mar2025 21:02:10.614] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[13Mar2025 21:02:11.108] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[13Mar2025 21:02:11.192] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[13Mar2025 21:02:11.252] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[13Mar2025 21:02:11.254] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[13Mar2025 21:02:11.255] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[13Mar2025 21:02:11.258] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[13Mar2025 21:02:11.262] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[13Mar2025 21:02:11.263] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[13Mar2025 21:02:11.267] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[13Mar2025 21:02:11.272] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[13Mar2025 21:02:11.283] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[13Mar2025 21:02:11.286] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[13Mar2025 21:02:11.287] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[13Mar2025 21:02:11.294] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[13Mar2025 21:02:11.316] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[13Mar2025 21:02:11.362] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[13Mar2025 21:02:11.366] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[13Mar2025 21:02:11.404] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[13Mar2025 21:02:11.405] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[13Mar2025 21:02:11.409] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[13Mar2025 21:02:11.415] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[13Mar2025 21:02:11.427] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[13Mar2025 21:02:11.436] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[13Mar2025 21:02:11.437] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[13Mar2025 21:02:11.438] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[13Mar2025 21:02:11.448] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[13Mar2025 21:02:11.458] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[13Mar2025 21:02:11.459] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[13Mar2025 21:02:11.460] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[13Mar2025 21:02:11.460] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[13Mar2025 21:02:11.501] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[13Mar2025 21:02:11.502] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[13Mar2025 21:02:13.067] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@49e09b23 has been registered twice for the same name treechop:chop_wood.
-[13Mar2025 21:02:13.930] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
-[13Mar2025 21:02:15.357] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[13Mar2025 21:02:15.551] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[13Mar2025 21:02:15.554] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[13Mar2025 21:02:16.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[13Mar2025 21:02:16.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[13Mar2025 21:02:16.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[13Mar2025 21:02:16.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[13Mar2025 21:02:16.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[13Mar2025 21:02:16.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[13Mar2025 21:02:16.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[13Mar2025 21:02:16.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[13Mar2025 21:02:16.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[13Mar2025 21:02:16.768] [main/INFO] [Moonlight/]: Initialized color sets in 184ms
-[13Mar2025 21:02:16.843] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[13Mar2025 21:02:16.844] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[13Mar2025 21:02:16.844] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[13Mar2025 21:02:16.844] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[13Mar2025 21:02:16.844] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[13Mar2025 21:02:16.974] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[13Mar2025 21:02:16.975] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[13Mar2025 21:02:16.999] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[13Mar2025 21:02:16.999] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[13Mar2025 21:02:17.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[13Mar2025 21:02:17.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[13Mar2025 21:02:17.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[13Mar2025 21:02:17.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[13Mar2025 21:02:17.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[13Mar2025 21:02:17.324] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[13Mar2025 21:02:17.324] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[13Mar2025 21:02:17.326] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[13Mar2025 21:02:17.336] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[13Mar2025 21:02:17.340] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[13Mar2025 21:02:17.341] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[13Mar2025 21:02:17.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[13Mar2025 21:02:17.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Mar2025 21:02:17.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[13Mar2025 21:02:17.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[13Mar2025 21:02:17.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[13Mar2025 21:02:17.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[13Mar2025 21:02:17.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.71 Target: null
-[13Mar2025 21:02:17.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[13Mar2025 21:02:17.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[13Mar2025 21:02:17.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[13Mar2025 21:02:17.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[13Mar2025 21:02:17.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[13Mar2025 21:02:17.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.28 Target: 8.1.29
-[13Mar2025 21:02:17.988] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Mar2025 21:02:18.297] [main/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[13Mar2025 21:02:18.314] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
-[13Mar2025 21:02:18.314] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/verbose-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
-[13Mar2025 21:02:18.444] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 40 ms
-[13Mar2025 21:02:20.074] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[13Mar2025 21:02:21.197] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:farmersrespite:blocks/kettle
-com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[13Mar2025 21:02:21.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.414] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.414] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.416] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.416] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.425] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.428] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.464] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.464] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:pouring/water_cup: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:copper_cup'
-[13Mar2025 21:02:21.483] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.497] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.535] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.552] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.555] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.560] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.560] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.561] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.563] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.564] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.565] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.579] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.581] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.581] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.582] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.582] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.587] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.589] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.591] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.592] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.594] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.594] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.594] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.599] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.606] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.607] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
-[13Mar2025 21:02:21.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.619] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.623] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
-[13Mar2025 21:02:21.629] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[13Mar2025 21:02:21.696] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement farmersrespite:main/stunt_tea_bush: Invalid criterion trigger: farmersrespite:stunt_tea_bush
-[13Mar2025 21:02:21.781] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3318 advancements
-[13Mar2025 21:02:21.785] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[13Mar2025 21:02:21.805] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[13Mar2025 21:02:21.811] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 2 curio entities
-[13Mar2025 21:02:21.909] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
-[13Mar2025 21:02:21.916] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
-[13Mar2025 21:02:22.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Mar2025 21:02:22.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Mar2025 21:02:22.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Mar2025 21:02:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Mar2025 21:02:22.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Mar2025 21:02:22.183] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Mar2025 21:02:22.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Mar2025 21:02:22.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Mar2025 21:02:22.258] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Mar2025 21:02:22.258] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Mar2025 21:02:22.272] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[13Mar2025 21:02:22.274] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[13Mar2025 21:02:22.416] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.416] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[13Mar2025 21:02:22.417] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[13Mar2025 21:02:22.417] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.417] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[13Mar2025 21:02:22.418] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.418] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[13Mar2025 21:02:22.418] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[13Mar2025 21:02:22.418] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.419] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[13Mar2025 21:02:22.435] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.435] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
-[13Mar2025 21:02:22.435] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
-[13Mar2025 21:02:22.435] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[13Mar2025 21:02:22.436] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
-[13Mar2025 21:02:22.445] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[13Mar2025 21:02:22.726] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[13Mar2025 21:02:22.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Mar2025 21:02:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Mar2025 21:02:23.163] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
-[13Mar2025 21:02:24.747] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Mar2025 21:02:24.748] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Mar2025 21:02:24.748] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Mar2025 21:02:24.748] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Mar2025 21:02:25.162] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[13Mar2025 21:02:25.760] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[13Mar2025 21:02:25.983] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2822 ms
-[13Mar2025 21:02:25.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.715s)! For help, type "help"
-[13Mar2025 21:02:26.022] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Mar2025 21:02:26.036] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[13Mar2025 21:02:26.036] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[13Mar2025 21:02:26.036] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[13Mar2025 21:02:26.037] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[13Mar2025 21:02:26.037] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/verbose-winner/servidor_minecraft/./config/infernalmobs.cfg
-[13Mar2025 21:02:26.038] [Server thread/WARN] [ModernFix/]: Dedicated server took 37.601 seconds to load
-[13Mar2025 21:05:31.900] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[13Mar2025 21:05:31.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: autohealer_pvp[/127.133.246.123:33033] logged in with entity id 119 at (315.5, 68.0, 280.5)
-[13Mar2025 21:05:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp joined the game
-[13Mar2025 21:05:32.304] [Server thread/INFO] [Jade/]: Syncing config to autohealer_pvp (afef3350-9f03-3437-91df-9d8d28fc41f1)
-[13Mar2025 21:06:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
-[13Mar2025 21:06:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...vp target bread 64<--[HERE]
-[13Mar2025 21:07:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:07:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ayudaaaaaaaa
-[13Mar2025 21:07:49.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was blown up by Creeper
-[13Mar2025 21:07:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[13Mar2025 21:08:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[13Mar2025 21:08:49.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=328, y=78, z=269}
-[13Mar2025 21:08:49.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=327, y=79, z=269}
-[13Mar2025 21:08:49.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=328, y=77, z=267}
-[13Mar2025 21:08:50.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=326, y=77, z=268}
-[13Mar2025 21:08:51.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=325, y=77, z=268}
-[13Mar2025 21:08:51.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=326, y=77, z=268}
-[13Mar2025 21:08:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=325, y=76, z=267}
-[13Mar2025 21:08:56.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=321, y=63, z=257}
-[13Mar2025 21:08:56.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=322, y=63, z=256}
-[13Mar2025 21:10:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:10:07.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=336, y=64, z=260}
-[13Mar2025 21:10:08.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=336, y=64, z=260}
-[13Mar2025 21:10:08.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=335, y=63, z=260}
-[13Mar2025 21:10:08.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=336, y=64, z=260}
-[13Mar2025 21:10:08.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=335, y=63, z=260}
-[13Mar2025 21:10:10.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=332, y=63, z=259}
-[13Mar2025 21:10:11.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=334, y=63, z=259}
-[13Mar2025 21:10:11.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=333, y=63, z=259}
-[13Mar2025 21:10:11.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=335, y=63, z=259}
-[13Mar2025 21:10:12.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=335, y=63, z=259}
-[13Mar2025 21:10:12.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=335, y=63, z=259}
-[13Mar2025 21:10:13.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=332, y=63, z=260}
-[13Mar2025 21:10:13.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=65, z=264} BlockPos{x=332, y=63, z=259}
-[13Mar2025 21:10:25.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by Zombie
-[13Mar2025 21:10:32.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=332, y=65, z=264}
-[13Mar2025 21:10:33.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=331, y=65, z=264}
-[13Mar2025 21:10:45.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Monster Hunter]
-[13Mar2025 21:10:51.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=333, y=63, z=258}
-[13Mar2025 21:10:52.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=334, y=63, z=258}
-[13Mar2025 21:10:52.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=334, y=63, z=258}
-[13Mar2025 21:10:52.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:10:52.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=336, y=63, z=258}
-[13Mar2025 21:10:52.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=336, y=63, z=259}
-[13Mar2025 21:10:53.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=336, y=64, z=260}
-[13Mar2025 21:10:53.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=336, y=63, z=259}
-[13Mar2025 21:10:53.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=336, y=63, z=258}
-[13Mar2025 21:10:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=336, y=63, z=258}
-[13Mar2025 21:10:53.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:10:53.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=259}
-[13Mar2025 21:10:53.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=259} BlockPos{x=335, y=63, z=260}
-[13Mar2025 21:11:57.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
-[13Mar2025 21:11:57.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
-[13Mar2025 21:12:03.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
-[13Mar2025 21:12:26.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
-[13Mar2025 21:12:26.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
-[13Mar2025 21:12:27.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=262}
-[13Mar2025 21:12:27.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
-[13Mar2025 21:12:27.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
-[13Mar2025 21:12:27.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
-[13Mar2025 21:12:27.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
-[13Mar2025 21:12:27.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=63, z=262}
-[13Mar2025 21:12:27.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=63, z=262}
-[13Mar2025 21:12:30.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=64, z=263}
-[13Mar2025 21:12:43.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
-[13Mar2025 21:12:44.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=334, y=64, z=263}
-[13Mar2025 21:12:46.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=335, y=64, z=263}
-[13Mar2025 21:12:51.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=63, z=263}
-[13Mar2025 21:12:53.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
-[13Mar2025 21:12:53.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
-[13Mar2025 21:12:53.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
-[13Mar2025 21:12:54.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=332, y=63, z=263}
-[13Mar2025 21:12:54.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=68, z=263} BlockPos{x=333, y=64, z=264}
-[13Mar2025 21:13:25.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=329, y=63, z=257}
-[13Mar2025 21:13:25.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=330, y=63, z=257}
-[13Mar2025 21:13:25.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=330, y=63, z=258}
-[13Mar2025 21:13:26.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=334, y=63, z=258}
-[13Mar2025 21:13:26.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=262} BlockPos{x=334, y=63, z=258}
-[13Mar2025 21:13:33.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[13Mar2025 21:15:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Crops of the Wild]
-[13Mar2025 21:15:25.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Mine? Mine? Mine?]
-[13Mar2025 21:15:58.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: diego8182[/127.39.46.86:40727] logged in with entity id 2391 at (675.8306182474674, 92.0, 99.79296981858468)
-[13Mar2025 21:15:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 joined the game
-[13Mar2025 21:15:59.040] [Server thread/INFO] [Jade/]: Syncing config to diego8182 (7a1dce81-18c6-3b06-8f36-eba002835f88)
-[13Mar2025 21:16:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> putita
-[13Mar2025 21:16:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
-[13Mar2025 21:16:24.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> onde ta
-[13Mar2025 21:16:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> MAMUT DE MIERDAAA
-[13Mar2025 21:16:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
-[13Mar2025 21:16:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> QUE PINGO ME MATAS PUTITA
-[13Mar2025 21:16:45.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> dodne estaaaaaaaaa
-[13Mar2025 21:16:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 was doomed to fall by Tusklin
-[13Mar2025 21:16:55.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:55.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:55.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:55.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:56.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:56.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:56.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:56.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=335, y=63, z=258}
-[13Mar2025 21:16:58.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=327, y=73, z=305} BlockPos{x=336, y=63, z=259}
-[13Mar2025 21:17:02.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> me mato un mamut tipo dinosaurio
-[13Mar2025 21:17:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xdddddddddddddddddd
-[13Mar2025 21:17:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ontas
-[13Mar2025 21:17:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
-[13Mar2025 21:17:21.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 was killed
-[13Mar2025 21:17:21.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Killed diego8182]
-[13Mar2025 21:17:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> llegue ala aldea
-[13Mar2025 21:18:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> pica
-[13Mar2025 21:18:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe
-[13Mar2025 21:18:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Creative Mode]
-[13Mar2025 21:18:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a chanbear
-[13Mar2025 21:18:38.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> tol
-[13Mar2025 21:18:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> toma
-[13Mar2025 21:18:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd bada ilegal
-[13Mar2025 21:19:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> esque no hay mucha comida aca
-[13Mar2025 21:19:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Survival Mode]
-[13Mar2025 21:19:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a chanbear
-[13Mar2025 21:19:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> vamo a dormir
-[13Mar2025 21:19:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Sweet Dreams]
-[13Mar2025 21:19:27.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xddddddddd
-[13Mar2025 21:19:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 has made the advancement [Sweet Dreams]
-[13Mar2025 21:19:43.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> dormi
-[13Mar2025 21:19:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> mounstros cerca
-[13Mar2025 21:19:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> anda a otro
-[13Mar2025 21:20:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ayudaaaaaaa
-[13Mar2025 21:20:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> alalalalala
-[13Mar2025 21:20:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> corrw
-[13Mar2025 21:21:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Acquire Hardware]
-[13Mar2025 21:21:14.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ese zolbi tiene poderes
-[13Mar2025 21:21:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> los que tienen su nombre en una barra tienen poderes
-[13Mar2025 21:21:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a kien chucha pone un zonbi com ams de 20 corazonez
-[13Mar2025 21:21:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> yo
-[13Mar2025 21:21:48.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/102, l='ServerLevel[world]', x=401.49, y=128.00, z=460.49] died, message: 'Weaponsmith was slain by Zombie'
-[13Mar2025 21:21:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
-[13Mar2025 21:21:52.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> dame pan
-[13Mar2025 21:22:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> stengo 10 no ma xd
-[13Mar2025 21:22:09.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> papas
-[13Mar2025 21:22:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a chanbiar
-[13Mar2025 21:22:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> me voy a buscar mi loot
-[13Mar2025 21:23:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> tamare esto parece la prehistoria
-[13Mar2025 21:24:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> XD
-[13Mar2025 21:24:25.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> por que lo dices
-[13Mar2025 21:24:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> mira esos arboles y acabo de ver algo gigante
-[13Mar2025 21:24:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> como un dinosaurio
-[13Mar2025 21:24:42.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> XD
-[13Mar2025 21:24:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> estoy escondido
-[13Mar2025 21:25:03.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> en algo tienes razon
-[13Mar2025 21:25:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> pero para mi es mas por lo sonidos que hay
-[13Mar2025 21:25:20.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> de pajaros y ambiente
-[13Mar2025 21:25:37.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
-[13Mar2025 21:25:46.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> las cuevas dan miedo
-[13Mar2025 21:25:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> no he idop xd
-[13Mar2025 21:26:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ve una cueva grande
-[13Mar2025 21:26:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Isn't It Iron Pick]
-[13Mar2025 21:26:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> veras el ambiente
-[13Mar2025 21:26:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ok
-[13Mar2025 21:26:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp has made the advancement [Stone Age]
-[13Mar2025 21:26:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ya ta
-[13Mar2025 21:27:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> are una casa cerca ala aldea pap poenr mis cosas
-[13Mar2025 21:27:43.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> hay emotes
-[13Mar2025 21:28:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> brooooooooooooo
-[13Mar2025 21:28:15.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ay un tiburon tamañno ballena en el amr
-[13Mar2025 21:28:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> se llama megalodon
-[13Mar2025 21:28:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe si entro em comera de un bocao ?
-[13Mar2025 21:28:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> creo que si
-[13Mar2025 21:28:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> tmr ya me asuste
-[13Mar2025 21:29:01.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> voy a la base
-[13Mar2025 21:29:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> a la aldea
-[13Mar2025 21:29:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
-[13Mar2025 21:30:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe en el mapa donde esta usted
-[13Mar2025 21:30:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> donde estas
-[13Mar2025 21:30:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> nose
-[13Mar2025 21:30:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> veo al aldea
-[13Mar2025 21:30:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> los puntos blancos son jugadores
-[13Mar2025 21:31:02.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ues no veo ni un punto blanco
-[13Mar2025 21:31:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> aca mi base ven mira
-[13Mar2025 21:31:29.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ffffffffff
-[13Mar2025 21:32:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
-[13Mar2025 21:32:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xddddddd
-[13Mar2025 21:32:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> jsjsjsjs
-[13Mar2025 21:32:22.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> revivime
-[13Mar2025 21:32:24.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oeeeeee
-[13Mar2025 21:32:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> hacd click
-[13Mar2025 21:32:49.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> el otro
-[13Mar2025 21:32:52.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> a ok
-[13Mar2025 21:32:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> v:
-[13Mar2025 21:33:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> no em deja
-[13Mar2025 21:33:11.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> que tocaste
-[13Mar2025 21:33:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> hay me revevias
-[13Mar2025 21:33:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> los dos clicks
-[13Mar2025 21:33:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> hacelo
-[13Mar2025 21:33:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> veniii
-[13Mar2025 21:33:53.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> acata el megalodon
-[13Mar2025 21:33:59.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 hit the ground too hard and bled out
-[13Mar2025 21:34:08.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> te dije
-[13Mar2025 21:34:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe se llama cachalote
-[13Mar2025 21:34:51.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> brooooooooooooo
-[13Mar2025 21:34:55.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> q
-[13Mar2025 21:35:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> cuidado
-[13Mar2025 21:35:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> entraaaaaaa
-[13Mar2025 21:36:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ey
-[13Mar2025 21:36:02.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:36:10.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> eyeyey
-[13Mar2025 21:36:24.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> quiero ver eso de revivir
-[13Mar2025 21:36:44.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> yupanki
-[13Mar2025 21:36:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 is incapacitated!
-[13Mar2025 21:36:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> xd
-[13Mar2025 21:36:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> os tonto
-[13Mar2025 21:37:13.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182
-[13Mar2025 21:37:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Creative Mode]
-[13Mar2025 21:37:42.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Set own game mode to Survival Mode]
-[13Mar2025 21:37:48.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/46, l='ServerLevel[world]', x=396.70, y=122.00, z=400.30] died, message: 'Farmer was slain by Zombie'
-[13Mar2025 21:37:48.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 was killed
-[13Mar2025 21:37:48.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [diego8182: Killed diego8182]
-[13Mar2025 21:38:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> entra
-[13Mar2025 21:38:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:38:55.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ww
-[13Mar2025 21:38:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> me saco volando
-[13Mar2025 21:39:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ayudaaaaaaa
-[13Mar2025 21:39:52.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ayudaaaaaaaaaa
-[13Mar2025 21:40:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182 and bled out
-[13Mar2025 21:40:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> perq voy a ver como revivir
-[13Mar2025 21:40:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ya
-[13Mar2025 21:42:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> oe
-[13Mar2025 21:42:04.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:42:05.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182
-[13Mar2025 21:42:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> puta
-[13Mar2025 21:42:16.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> te queria revivir
-[13Mar2025 21:42:28.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> pa la mina}
-[13Mar2025 21:42:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp is incapacitated!
-[13Mar2025 21:42:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> que hace
-[13Mar2025 21:42:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> quedate quieto
-[13Mar2025 21:43:05.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <autohealer_pvp> ya
-[13Mar2025 21:43:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> jajjas
-[13Mar2025 21:43:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <diego8182> ta madre no encuentro la tecla
-[13Mar2025 21:43:52.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: diego8182 lost connection: Disconnected
-[13Mar2025 21:43:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diego8182 left the game
-[13Mar2025 21:44:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp was slain by diego8182 and bled out
-[13Mar2025 21:47:22.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: autohealer_pvp lost connection: Disconnected
-[13Mar2025 21:47:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: autohealer_pvp left the game
+[13Mar2025 21:55:39.036] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13Mar2025 21:55:39.413] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.803 s after launch)
+[13Mar2025 21:55:39.510] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[13Mar2025 21:55:39.510] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[13Mar2025 21:55:39.615] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[13Mar2025 21:55:39.615] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[13Mar2025 21:55:39.615] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[13Mar2025 21:55:39.615] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[13Mar2025 21:55:41.129] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1713 milliseconds
+[13Mar2025 21:55:42.752] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Mar2025 21:55:42.753] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Mar2025 21:55:43.676] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[13Mar2025 21:55:44.134] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[13Mar2025 21:55:44.175] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[13Mar2025 21:55:44.178] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[13Mar2025 21:55:44.618] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[13Mar2025 21:55:44.619] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[13Mar2025 21:55:45.021] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[13Mar2025 21:55:45.115] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[13Mar2025 21:55:45.172] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[13Mar2025 21:55:45.173] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[13Mar2025 21:55:45.176] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[13Mar2025 21:55:45.177] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[13Mar2025 21:55:45.178] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[13Mar2025 21:55:45.179] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[13Mar2025 21:55:45.184] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[13Mar2025 21:55:45.187] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[13Mar2025 21:55:45.199] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[13Mar2025 21:55:45.201] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[13Mar2025 21:55:45.202] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[13Mar2025 21:55:45.208] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[13Mar2025 21:55:45.233] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[13Mar2025 21:55:45.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Mar2025 21:55:45.333] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[13Mar2025 21:55:45.336] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[13Mar2025 21:55:45.340] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[13Mar2025 21:55:45.342] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[13Mar2025 21:55:45.349] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[13Mar2025 21:55:45.362] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[13Mar2025 21:55:45.378] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[13Mar2025 21:55:45.379] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[13Mar2025 21:55:45.380] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[13Mar2025 21:55:45.390] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[13Mar2025 21:55:45.401] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[13Mar2025 21:55:45.403] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[13Mar2025 21:55:45.404] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[13Mar2025 21:55:45.405] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[13Mar2025 21:55:45.483] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[13Mar2025 21:55:45.484] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[13Mar2025 21:55:47.024] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@49e09b23 has been registered twice for the same name treechop:chop_wood.
+[13Mar2025 21:55:47.980] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[13Mar2025 21:55:49.037] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[13Mar2025 21:55:49.345] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[13Mar2025 21:55:49.356] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[13Mar2025 21:55:49.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[13Mar2025 21:55:49.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[13Mar2025 21:55:49.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[13Mar2025 21:55:49.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Mar2025 21:55:49.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[13Mar2025 21:55:49.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[13Mar2025 21:55:49.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[13Mar2025 21:55:49.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[13Mar2025 21:55:49.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[13Mar2025 21:55:50.280] [main/INFO] [Moonlight/]: Initialized color sets in 179ms
+[13Mar2025 21:55:50.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[13Mar2025 21:55:50.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[13Mar2025 21:55:50.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[13Mar2025 21:55:50.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[13Mar2025 21:55:50.378] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Mar2025 21:55:50.379] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Mar2025 21:55:50.379] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[13Mar2025 21:55:50.380] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[13Mar2025 21:55:50.380] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[13Mar2025 21:55:50.499] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Mar2025 21:55:50.499] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Mar2025 21:55:50.523] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Mar2025 21:55:50.523] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Mar2025 21:55:50.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[13Mar2025 21:55:50.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Mar2025 21:55:50.853] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[13Mar2025 21:55:50.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[13Mar2025 21:55:50.863] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[13Mar2025 21:55:50.864] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Mar2025 21:55:50.875] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Mar2025 21:55:50.879] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Mar2025 21:55:50.881] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[13Mar2025 21:55:50.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[13Mar2025 21:55:50.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[13Mar2025 21:55:51.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[13Mar2025 21:55:51.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[13Mar2025 21:55:51.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.71 Target: null
+[13Mar2025 21:55:51.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[13Mar2025 21:55:51.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[13Mar2025 21:55:51.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[13Mar2025 21:55:51.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[13Mar2025 21:55:51.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[13Mar2025 21:55:51.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.28 Target: 8.1.29
+[13Mar2025 21:55:51.556] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Mar2025 21:55:51.598] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/verbose-winner/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
